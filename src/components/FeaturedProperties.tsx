@@ -20,7 +20,7 @@ export default function FeaturedProperties({ properties }: FeaturedPropertiesPro
               <Home className="w-4 h-4 text-red-500" />               Sample properties
             </h2>
             <p className="text-xs text-neutral-400 font-light">
-              Example listings for this student project; not real properties or offers.
+              Example listings in this NM Codes project; not real properties or offers.
             </p>
           </div>
           

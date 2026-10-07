@@ -275,7 +275,7 @@ export default function Navbar() {
                   <span className="text-[9px] font-bold tracking-[0.25em] uppercase block">Current Listings</span>
                 </div>
                 <h4 className="text-white text-xs font-normal mb-1.5 tracking-wide">Explore Available Real Estate</h4>
-                <p className="text-[10px] text-neutral-400 font-light leading-relaxed">Browse sample property types and example listings in this student-project demo.</p>
+                <p className="text-[10px] text-neutral-400 font-light leading-relaxed">Browse sample property types and example listings in this NM Codes demo.</p>
               </div>
               <Link to="/properties" onClick={closeAllMenus} className="text-[11px] font-medium text-white hover:text-red-500 transition-colors flex items-center gap-1 mt-4 group">
                 View All Listings <ArrowUpRight className="w-3 h-3 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
@@ -413,7 +413,7 @@ export default function Navbar() {
 
         <div className="p-8 text-center bg-linear-to-t from-neutral-900/60 to-transparent border-t border-white/5 shrink-0">
           <span className="text-red-500 text-[10px] font-bold tracking-[0.3em] uppercase block mb-1">Virebo Property</span>
-          <p className="text-[9px] text-neutral-600 uppercase tracking-widest">A student project</p>
+          <p className="text-[9px] text-neutral-600 uppercase tracking-widest">An NM Codes project</p>
         </div>
       </div>
     </>

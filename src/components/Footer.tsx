@@ -49,7 +49,7 @@ export default function Footer() {
               <h4 className="text-sm font-semibold uppercase tracking-widest text-white">Virebo Property</h4>
             </Link>
             <p className="text-[11px] text-neutral-400 font-light leading-relaxed text-center md:text-left max-w-sm">
-              An independent student project exploring a clear, simple way to browse property listings.
+              An NM Codes project exploring a clear, simple way to browse property listings.
             </p>
           </div>
 

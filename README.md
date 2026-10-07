@@ -1,6 +1,6 @@
 # Virebo Property
 
-Virebo Property is an independent student portfolio project: a responsive real-estate website concept built to demonstrate interface design and front-end development. It presents sample property listings, property-related service sections, navigation, and supporting informational pages.
+Virebo Property is an NM Codes project: a responsive real-estate website concept built to demonstrate interface design and front-end development. It presents sample property listings, property-related service sections, navigation, and supporting informational pages.
 
 The website is a front-end demonstration, not a real estate business. Listings, prices, testimonials, vacancies, and other business-like content are illustrative and must not be treated as real offers or verified claims. Forms are demonstrative and do not send or store submissions.
 

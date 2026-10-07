@@ -28,7 +28,7 @@ export default function Contact() {
             We are here to assist you
           </h1>
           <p className="text-sm sm:text-base text-neutral-400 max-w-xl mx-auto leading-relaxed">
-            This student project demonstrates a contact form. It does not send or store messages.
+            This NM Codes project demonstrates a contact form. It does not send or store messages.
           </p>
         </div>
       </section>
@@ -39,7 +39,7 @@ export default function Contact() {
           <div className="lg:col-span-5 space-y-10">
             <div>
               <h2 className="text-2xl font-light tracking-wide mb-2 text-white">Contact Information</h2>
-              <p className="text-xs text-neutral-500 uppercase tracking-wider mb-6">Virebo Property · student project</p>
+              <p className="text-xs text-neutral-500 uppercase tracking-wider mb-6">Virebo Property · NM Codes</p>
               
               <div className="flex items-center gap-4 p-5 bg-neutral-900/20 border border-neutral-900 rounded-2xl">
                 <div className="p-3 bg-neutral-900 rounded-xl">

@@ -23,7 +23,7 @@ const initialJobs: Job[] = [
     dept: 'sales', 
     location: 'Example / Remote', 
     type: 'Full-time',
-    aboutCompany: 'Demonstration text only. This student project is not an employer and this is not an active vacancy.',
+    aboutCompany: 'Demonstration text only. This NM Codes project is not an employer and this is not an active vacancy.',
     aboutRole: 'Example role content used to demonstrate how a property-related vacancy could be presented on the site.',
     howWeWork: 'This page is an interface prototype. It does not represent a real team, company, or employment relationship.',
     mission: [
@@ -43,7 +43,7 @@ const initialJobs: Job[] = [
     dept: 'management',
     location: 'Example / Remote',
     type: 'Full-time',
-    aboutCompany: 'Demonstration text only. This student project is not an employer and this is not an active vacancy.',
+    aboutCompany: 'Demonstration text only. This NM Codes project is not an employer and this is not an active vacancy.',
     aboutRole: 'Example role content used to demonstrate how a data-related vacancy could be presented on the site.',
     howWeWork: 'This page is an interface prototype. It does not represent a real team, company, or employment relationship.',
     mission: [
@@ -220,7 +220,7 @@ export default function Careers() {
               {selectedJob.title}
             </h1>
             <p className="text-sm text-neutral-400 max-w-xl mx-auto font-light leading-relaxed">
-              This student project is not an employer. Application details are for interface demonstration only.
+              This NM Codes project is not an employer. Application details are for interface demonstration only.
             </p>
           </div>
 
@@ -379,7 +379,7 @@ export default function Careers() {
       <section className="relative py-24 border-b border-neutral-900 bg-gradient-to-b from-neutral-900/20 to-transparent text-center">
         <div className="max-w-4xl mx-auto px-4">
           <span className="text-red-500 text-xs font-bold tracking-[0.25em] uppercase block mb-4">
-            Example roles · student project
+            Example roles · NM Codes project
           </span>
           <h1 className="text-4xl sm:text-6xl font-extralight tracking-wide mb-6">
             We simplify property ownership
@@ -414,7 +414,7 @@ export default function Careers() {
           <div className="p-8 bg-neutral-900/20 border border-neutral-900 rounded-2xl">
             <h3 className="text-base font-medium mb-3 text-white">We're honest</h3>
             <p className="text-xs text-neutral-400 font-light leading-relaxed">
-              Example copy for a student-project careers page; this is not a statement from an employer.
+              Example copy for an NM Codes careers page; this is not a statement from an employer.
             </p>
           </div>
           <div className="p-8 bg-neutral-900/20 border border-neutral-900 rounded-2xl">

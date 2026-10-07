@@ -31,7 +31,7 @@ export default function FounderStory() {
             <div className="w-32 h-32 rounded-full border border-white/10 bg-neutral-900 flex items-center justify-center mb-6 overflow-hidden shadow-xl">
               <img src={brandMark} alt="" className="w-16 h-16 object-contain opacity-80" />
             </div>
-            <h2 className="text-lg font-medium text-white tracking-wide">Independent student project</h2>
+            <h2 className="text-lg font-medium text-white tracking-wide">An NM Codes project</h2>
             <p className="text-xs text-red-500 uppercase tracking-widest mt-1">Property website demo</p>
             
             <div className="w-full h-px bg-white/5 my-6" />
@@ -42,7 +42,7 @@ export default function FounderStory() {
 
           <div className="md:col-span-8 space-y-6 text-sm sm:text-base text-neutral-300 font-light leading-relaxed tracking-wide">
             <p>
-              Virebo is an independent student project exploring how a property website can present listings, services, and useful information in one place.
+              Virebo is an NM Codes project exploring how a property website can present listings, services, and useful information in one place.
             </p>
             <p>
               The pages are a design and functionality demo. Property information, testimonials, contact details, and career content are examples only; they do not represent active listings, verified services, or a real estate business.

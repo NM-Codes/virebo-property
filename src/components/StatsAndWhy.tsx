@@ -14,7 +14,7 @@ export default function StatsAndWhy() {
     },
     { 
       title: 'Independent Project', 
-      desc: 'A student project showcasing a real-estate website concept.'
+      desc: 'An NM Codes project showcasing a real-estate website concept.'
     }
   ];
 
@@ -67,7 +67,7 @@ export default function StatsAndWhy() {
               </p>
               <div className="mt-6 flex items-center gap-2">
                 <span className="h-px w-8 bg-red-600" />
-                <p className="text-xs uppercase tracking-[0.25em] text-red-500 font-semibold">Virebo Property · student project</p>
+                <p className="text-xs uppercase tracking-[0.25em] text-red-500 font-semibold">Virebo Property · NM Codes</p>
               </div>
             </div>
 

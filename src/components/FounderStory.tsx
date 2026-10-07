@@ -21,7 +21,7 @@ export default function FounderStory() {
             Our approach
           </h1>
           <p className="text-neutral-500 font-light text-xs uppercase tracking-[0.25em]">
-            Virebo Property — property, made clearer
+            Virebo Property
           </p>
         </div>
 
